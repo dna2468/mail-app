@@ -8,7 +8,7 @@ except Exception:
     st.error("APIキーが設定されていません。")
     st.stop()
 
-st.title("ビジネスメール作成アシスタント ✍️")
+st.title("ビジネスメール作成アシスタント")
 
 # 1. ユーザーからの入力を受け取る
 st.subheader("1. メールの情報を入力してください")
